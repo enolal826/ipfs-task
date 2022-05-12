@@ -82,6 +82,12 @@ Indicating the encoding type as a prefix of the CID allows us to decode it easil
 
 In `CIDv0`, the base encoding is always `base58btc`, so the multibase prefix is always `Qm`.
 
+### References
+
+* [ResNetLab: Core Course Module - Content Addressing](https://www.youtube.com/watch?v=dN9EvujJ9cM)
+* [IPFS official documentation - Content Addressing](https://docs.ipfs.io/concepts/content-addressing/)
+* [ProtoSchool - Anatomy of a CID](https://proto.school/anatomy-of-a-cid)
+
 ## Quiz
 
 1) Which of the following sentences are correct? (Choose two)
